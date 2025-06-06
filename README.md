@@ -1,8 +1,8 @@
 # Color Match Game
 
 <div style="display: flex; align-items: center; justify-content: center">
-  <img src="../Demo/assets/fcj_logo.png" alt="FCJ Logo" style="height: 200px; margin-right: 20px;">
-  <img src="../Demo/assets/q_logo.png" alt="Q Logo" style="height: 200px;">
+  <img src="Picture/fcj_logo.png" alt="FCJ Logo" style="height: 200px; margin-right: 20px;">
+  <img src="Picture/q_logo.png" alt="Q Logo" style="height: 200px;">
 </div>
 
 A creative color tile game where you can create patterns by selecting and coloring individual tiles.
