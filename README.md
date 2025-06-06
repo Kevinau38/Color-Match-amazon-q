@@ -7,6 +7,10 @@
 
 A creative color tile game where you can create patterns by selecting and coloring individual tiles.
 
+## Short demo
+
+![Watch Demo Video](Picture/ColorMatch_demo.gif)
+
 ## Installation
 
 1. Make sure you have Python 3.x installed
