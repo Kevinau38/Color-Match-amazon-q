@@ -13,7 +13,7 @@ A creative color tile game where you can create patterns by selecting and colori
 
 ## Installation
 
-1. Make sure you have Python 3.x installed
+1. Make sure you have Python 3.10 or More installed
 2. Install Pygame:
 
 ```bash
@@ -80,8 +80,14 @@ Improved the layout by separating the grid area from the controls, making it eas
 
 Adjusted the colors to be more visually appealing with medium brightness, and limited the moves to create a more challenging experience.
 
-## Development Notes
+## My Experience with Amazon Q
 
-The Color Match game demonstrates how a simple concept can be transformed into a different gaming experience. By changing the core mechanics from merging tiles to selecting and coloring them, we've created a game that encourages creativity while still providing a challenge.
+Throughout the development of Color Match, Amazon Q has been an invaluable coding companion. I was particularly impressed by how it helped me transform my ideas into functional code with minimal effort. The AI assistant excelled at:
 
-Created by Kevin Tran FCJ
+- Generating efficient, clean code that matched my requirements
+- Providing insightful suggestions for game mechanics and improvements
+- Helping debug issues quickly with targeted solutions
+- Adapting existing code to implement new features
+- Offering clear explanations that enhanced my understanding
+
+Amazon Q significantly streamlined my development workflow, allowing me to focus more on the creative aspects of game design rather than getting stuck on implementation details.
