@@ -7,7 +7,7 @@ from tile import Tile
 class Game:
     def __init__(self):
         self.screen = pygame.display.set_mode((WIDTH, HEIGHT))
-        pygame.display.set_caption("Color Match - Kevin Tran FCJ")
+        pygame.display.set_caption("Color Match - Duc Anh Tran FCJ")
         self.clock = pygame.time.Clock()
         self.font = pygame.font.SysFont("Arial", 24, bold=True)
         self.small_font = pygame.font.SysFont("Arial", 18, bold=True)
